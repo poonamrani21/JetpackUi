@@ -4,14 +4,15 @@ This repository contains a set of individual Jetpack compose UI components which
 # Requirements
 - Android Studio with (android studio 2020.3.1 (Arctic fox and above))
 - API level 21 or higher
-- 
-A sample chat app that focuses on UI state patterns and text input.
+
+# A sample app that focuses on UI state patterns and text input with Navigation Drawer and Nav Graph.
 
 • Material Design 3 theme and Material You dynamic color
 • Resource loading
 • Integration with Architecture Components: Navigation Drawer, Navigation Graph, Fragments, LiveData, ViewModel
 • Animation
 • Custom layouts
+# Coil
 # Collapsing Layout
 # AlertDialog
 # WebView
@@ -19,6 +20,6 @@ A sample chat app that focuses on UI state patterns and text input.
 # Navigation Drawer
 # Listing (LazyColumn, LazyRow)
 # Components like Box,Row,Column,OutlinedTextField, Spacer, Icon, Image
-#Coil 
+
 
 
